@@ -2,8 +2,7 @@
 # 🔭 I’m currently Freelance developer
 
 ## My Tech Stack
-ASP.NET CORE
-Angular 12
+ASP.NET CORE and Angular 12
 <!--
 **ashwallbera/ashwallbera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
