@@ -1,5 +1,4 @@
 ### Hi there 👋
-# 🔭 I’m currently Freelance developer
 
 ## My Tech Stack
 ASP.NET CORE and Angular 12
