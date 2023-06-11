@@ -6,8 +6,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="40" height="40"/>
 
 
-<!-- ## My portfolio
-<a href="jadocjefferson.com" target="_blank">JEFFERSON JADOC</a> -->
+<a href="https://jadocjefferson-portfolio.herokuapp.com/home" target="_blank">My Portfolio</a>
 
 <!--
 **ashwallbera/ashwallbera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
